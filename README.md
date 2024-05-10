@@ -1,3 +1,3 @@
 # full_rnaseq
 
-Brief introduction
+Brief description of the library.
