@@ -1,0 +1,8 @@
+conda create -n full_rnaseq@dprada_3.10 python=3.10
+
+- mamba
+- jupyterlab
+- pandas
+- networkx
+- matplotlib
+- numpy
